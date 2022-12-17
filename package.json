@@ -1,0 +1,15 @@
+{
+  "name": "week_10_DOM",
+  "version": "1.0.0",
+  "description": "create a one page that uses a bootstrap styled table and form that allows the user to add a row when clicking submit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Mark Rhoades",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "jquery": "^3.6.2"
+  }
+}
