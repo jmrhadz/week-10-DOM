@@ -5,4 +5,4 @@
 * A Bootstrap styled form that allows a user to add a new row to the table when clicking on submit.
 
  #### TODO:  
- add input validation > ui alerts for invalid input, such as: input boxes turning red when information is missing or invalid
+ ✔️add input validation > ui alerts for invalid input, such as: input boxes turning red when information is missing or invalid
